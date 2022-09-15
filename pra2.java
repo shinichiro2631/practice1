@@ -1,3 +1,5 @@
 public static void main(String[] args) {
-	System.out.print(Hello World);
+	for(int i=100; i<=100; i++) {
+		System.out.print(Hello World);
+	}
 }
